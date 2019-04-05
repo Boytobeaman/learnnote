@@ -46,8 +46,8 @@ export default class MainNavbar extends React.Component{
             </NavItem>
 
             <NavItem>
-              <Link className="nav-link" to="/folding-crates/">
-                Linux
+              <Link className="nav-link" to="/notes/">
+                Notes
               </Link>
             </NavItem>
             <NavItem>
