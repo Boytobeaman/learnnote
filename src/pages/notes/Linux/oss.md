@@ -1,3 +1,11 @@
+---
+templateKey: notes-post
+title: Aliyun OSS
+date: 2016-12-17T15:04:10.000Z
+description: Aliyun OSS usage example.
+tags:
+---
+
 ## Aliyun 图片处理
 
 ### 图片处理域名规则

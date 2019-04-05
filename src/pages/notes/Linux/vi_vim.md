@@ -1,3 +1,12 @@
+---
+templateKey: notes-post
+title: vi vim usage
+date: 2016-12-17T15:04:10.000Z
+description: vi vim usage and most used commands.
+tags:
+---
+
+
 ### vi/vim 的使用
 基本上 vi/vim 共分为三种模式，分别是命令模式（Command mode），输入模式（Insert mode）和底线命令模式（Last line mode）。 这三种模式的作用分别是：
 ![vim work mode](https://raw.githubusercontent.com/Boytobeaman/learnDocs/master/documents/images/vim_work_mode.JPG "vim work mode")

@@ -1,4 +1,10 @@
-
+---
+templateKey: notes-post
+title: Linux
+date: 2016-12-17T15:04:10.000Z
+description: Linux.
+tags:
+---
 
 ### 查看系统版本
 
